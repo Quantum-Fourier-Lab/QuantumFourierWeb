@@ -39,7 +39,7 @@ The seven linked publications were checked against primary arXiv records and pub
 - [Quantum Ruzsa Divergence to Quantify Magic](https://arxiv.org/abs/2401.14385), *IEEE Transactions on Information Theory* 71, 2726 (2025).
 - [Magic Resource Can Enhance the Quantum Capacity of Channels](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.050202), *Physical Review Letters* 134, 050202 (2025), Kaifeng Bu and Arthur Jaffe.
 
-The original design takes inspiration from the clear positioning and research emphasis of [Atomic Inference](https://atomicinference.ai) and [Magic State Labs](https://www.magicstatelabs.com/). Their branding, graphics, product claims, and benchmarks are not reproduced.
+
 
 ## Publish at quantumfourierlab.com
 
