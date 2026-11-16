@@ -50,7 +50,7 @@ When ready for the public launch:
 1. In this repository's **Settings → Pages**, choose **GitHub Actions** as the source.
 2. Push changes to `dist/` or the workflow on `main` to deploy automatically. To rerun without a source change, open the repository's top-level **Actions → Deploy to GitHub Pages → Run workflow** and select `main`. This is separate from **Settings → Actions**, which configures permissions.
 3. In **Settings → Pages**, set the custom domain to `quantumfourierlab.com` before changing DNS.
-4. At the domain's DNS provider, configure apex `A` records for `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. If using `www`, point its `CNAME` to `ybzhang-nxu.github.io`.
+4. At the domain's DNS provider, configure apex `A` records for `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and `185.199.111.153`. If using `www`, point its `CNAME` to `quantum-fourier-lab.github.io`.
 5. Enable **Enforce HTTPS** after the domain check and certificate provisioning finish.
 6. The `og:url` and `og:image` metadata in `dist/index.html` already use `https://quantumfourierlab.com`.
 
